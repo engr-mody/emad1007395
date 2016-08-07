@@ -1,0 +1,2 @@
+program: getInputFunc.c integerFactorial.c
+	gcc -o program getInputFunc.c integerFactorial.c -I.
